@@ -1,0 +1,100 @@
+https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/
+http://www.securitysift.com/offsec-ctp-osce/
+http://www.iodigitalsec.com/offensive-security-ctp-course-and-osce-certification-review/
+
+
+
+
+Egg Hunters:
+http://fuzzysecurity.com/tutorials/expDev/4.html
+
+
+
+
+Module 0x01 – Cross Site Scripting Attacks
+-	Cross-site Scripting (Wikipedia): 
+http://en.wikipedia.org/wiki/Cross-site_scripting
+
+-	XSS Filter Evasion Cheat Sheet: 
+https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+
+-	Cross-site Scripting (OWASP): 
+https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29
+
+Module 0x02 – Web Fu – PHPNuke
+-	Testing for Path Traversal (OWASP): 
+https://www.owasp.org/index.php/Testing_Directory_traversal/file_include_%28OTG-AUTHZ-001%29
+
+-	Local File Inclusion – Tricks of the Trade: 
+https://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/
+
+-	LFI to RCE: http://www.exploit-db.com/papers/12992/
+
+Module 0x03 and 0x04
+-	Portable Executable (Wikipedia): 
+http://en.wikipedia.org/wiki/Portable_Executable
+
+-	Evading Anti Virus Detection: 
+http://www.hellboundhackers.org/arti...Detection.html
+https://www.hellboundhackers.org/articles/read-article.php?article_id=842
+https://www.scribd.com/document/79220370/842-Evading-Anti-Virus-Detection
+
+-	Generating Payloads: 
+https://www.offensive-security.com/metasploit-unleashed/generating-payloads/
+
+Module 0x05 – Bypassing ASLR on Windows Vista
+-	Bypassing ASLR/DEP: https://www.exploit-db.com/docs/17914.pdf
+
+Module 0x06 – Cracking the Egghunter
+-	Safely Searching Process Virtual Address Space (PDF): 
+https://www.offensive-security.com/c...-shellcode.pdf
+
+-	Omelet Shellcode: https://www.exploit-db.com/exploits/13507/
+
+-	Heap-Only Egghunter: 
+http://r00tin.blogspot.com/2009/03/heap-only-egg-hunter.html
+
+Module 0x07 and 0x08
+-	Using SPIKE 101 (PPT): 
+http://www.immunitysec.com/downloads/usingspike3.ppt
+
+-	The Advantages of Block-Based Protocol Analysis for Security Testing: 
+https://immunityinc.com/downloads/advantages_of_block_based_analysis.ps
+
+-	Internet RFC Index: http://www.faqs.org/rfcs/
+
+-	Fuzzing Tools: http://securitytools.wikidot.com/fuzzing
+
+-	Intel Pentium Instruction Set Reference: 
+http://faydoc.tripod.com/cpu/
+
+Module -0x09 – GRE Sniffing
+-	Cisco SNMP Configuration Attack with a GRE Tunnel: 
+https://www.symantec.com/connect/articles/cisco-snmp-configuration-attack-gre-tunnel
+
+-	Scapy: 
+http://www.secdev.org/projects/scapy/
+
+-	How to Enable IP Forwarding in Linux: 
+http://www.ducea.com/2006/08/01/how-to-enable-ip-forwarding-in-linux/
+
+General Exploit Development Tutorials
+- Corelan: 
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+
+- FuzzySecurity: 
+https://www.fuzzysecurity.com/tutorials/expDev/1.html
+
+- SecuritySift: 
+http://www.securitysift.com/
+
+- TheGreyCorner: 
+http://www.thegreycorner.com/2011/03/exploit-writers-debugging-tutorial.html
+
+
+Corelan:
+[url]https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/[/url]
+FuzzySecurity:
+[url]https://www.fuzzysecurity.com/tutorials/expDev/1.html[/url]
+SecuritySift: [url]http://www.securitysift.com/[/url]
+
