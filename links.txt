@@ -1,15 +1,12 @@
 https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/
 http://www.securitysift.com/offsec-ctp-osce/
 http://www.iodigitalsec.com/offensive-security-ctp-course-and-osce-certification-review/
-
-
-
-
-Egg Hunters:
-http://fuzzysecurity.com/tutorials/expDev/4.html
-
-
-
+http://www.vividmachines.com/shellcode/shellcode.html
+https://infamoussyn.com/resources/
+http://www.primalsecurity.net/course-review-osce/
+http://netsec.ws/p?=517
+http://tekwizz123.blogspot.sg/2014/09/osce-review-and-experience.html
+https://networkfilter.blogspot.sg/2016/01/my-osce-review.html
 
 Module 0x01 – Cross Site Scripting Attacks
 -	Cross-site Scripting (Wikipedia): 
@@ -48,8 +45,10 @@ Module 0x05 – Bypassing ASLR on Windows Vista
 Module 0x06 – Cracking the Egghunter
 -	Safely Searching Process Virtual Address Space (PDF): 
 https://www.offensive-security.com/c...-shellcode.pdf
+http://fuzzysecurity.com/tutorials/expDev/4.html
 
--	Omelet Shellcode: https://www.exploit-db.com/exploits/13507/
+-	Omelet Shellcode: 
+https://www.exploit-db.com/exploits/13507/
 
 -	Heap-Only Egghunter: 
 http://r00tin.blogspot.com/2009/03/heap-only-egg-hunter.html
