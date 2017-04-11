@@ -25,7 +25,8 @@ https://www.owasp.org/index.php/Testing_Directory_traversal/file_include_%28OTG-
 -	Local File Inclusion – Tricks of the Trade: 
 https://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/
 
--	LFI to RCE: http://www.exploit-db.com/papers/12992/
+-	LFI to RCE: 
+http://www.exploit-db.com/papers/12992/
 
 Module 0x03 and 0x04
 -	Portable Executable (Wikipedia): 
@@ -60,9 +61,11 @@ http://www.immunitysec.com/downloads/usingspike3.ppt
 -	The Advantages of Block-Based Protocol Analysis for Security Testing: 
 https://immunityinc.com/downloads/advantages_of_block_based_analysis.ps
 
--	Internet RFC Index: http://www.faqs.org/rfcs/
+-	Internet RFC Index: 
+http://www.faqs.org/rfcs/
 
--	Fuzzing Tools: http://securitytools.wikidot.com/fuzzing
+-	Fuzzing Tools: 
+http://securitytools.wikidot.com/fuzzing
 
 -	Intel Pentium Instruction Set Reference: 
 http://faydoc.tripod.com/cpu/
@@ -92,8 +95,8 @@ http://www.thegreycorner.com/2011/03/exploit-writers-debugging-tutorial.html
 
 
 Corelan:
-[url]https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/[/url]
-FuzzySecurity:
-[url]https://www.fuzzysecurity.com/tutorials/expDev/1.html[/url]
-SecuritySift: [url]http://www.securitysift.com/[/url]
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+
+SecuritySift: 
+http://www.securitysift.com/
 
